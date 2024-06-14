@@ -28,8 +28,12 @@ Before you begin, ensure you have met the following requirements:
     ```sh
     git clone https://github.com/vikashmahato23/weatherApp.git
     ```
+3. go to directory:
 
-3. Install the dependencies:
+    ```sh
+    cd weatherApp
+    ```
+4. Install the dependencies:
 
     ```sh
     npm install
