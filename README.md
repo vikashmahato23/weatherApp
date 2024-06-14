@@ -18,14 +18,18 @@ Before you begin, ensure you have met the following requirements:
 - You have a Weather API key from [WeatherAPI](https://www.weatherapi.com/)
 
 ## Installation
+1. Expo Cli install globally:
 
-1. Clone the repository:
+    ```sh
+    npm install -g expo-cli
+   ```
+2. Clone the repository:
 
     ```sh
     git clone https://github.com/vikashmahato23/weatherApp.git
     ```
 
-2. Install the dependencies:
+3. Install the dependencies:
 
     ```sh
     npm install
